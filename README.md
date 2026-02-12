@@ -1,152 +1,66 @@
-<!-- ===================== HERO ANIMATION ===================== -->
-<div align="center">
+# 📊 Excel Sales Dashboard Project
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdndzZ2JjNXk1aHBmNnE3ZzV3cGJ4ZHF1M3h5aDZmbGk4bW02YyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7aD2saalBwwftBIY/giphy.gif" width="1000"/>
+## Overview  
+This project is a **sales dashboard built entirely using Microsoft Excel**.  
+It analyzes sales, revenue, expenses, and profit across regions, product lines, and departments to support data-driven business decisions.
 
-# 📊 EXCEL SALES DASHBOARD PROJECT  
-### ⚡ *Built 100% Using Microsoft Excel* ⚡
-
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXp0NXZyMXp0M3NnZjU3ZjV6NmE2NnJjNW96d3FybmV6Z21yZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlBO7eyXzSZkJri/giphy.gif" width="700"/>
-
-🚀 **NO Python | NO Power BI | NO Tableau**  
-📈 **ONLY EXCEL – Maximum Business Impact**
-
-</div>
+**Tools used:** Microsoft Excel only.
 
 ---
 
-## 🎯 PROJECT VIBE (WHY THIS SLAPS)
+## Objectives  
+- Analyze sales performance across regions  
+- Compare revenue, expenses, and profit by category  
+- Identify top-performing product lines and payment methods  
+- Present insights in a clear and visual dashboard format  
+
+---
+
+## Dataset  
+- Sales transaction data  
+- Fields include:
+  - Region  
+  - Product Line  
+  - Payment Method  
+  - Revenue, Expense, Profit  
+
+---
+
+## Tools Used  
+- Microsoft Excel  
+- Pivot Tables  
+- Charts and Visualizations  
+- Excel formulas  
+
+---
+
+## Dashboard Preview  
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="500"/>
+  <img src="dashboard.png" width="850"/>
 </p>
 
-> This project proves that **Excel alone can deliver executive-level dashboards**  
-> with **clear KPIs, quantified insights, and decision-ready visuals**.
+*(Replace `dashboard.png` with your actual dashboard image or GIF)*
 
 ---
 
-## 🛠️ TECH STACK (EXCEL SUPREMACY)
-
-<div align="center">
-
-<img src="https://media.giphy.com/media/l3vRfNA1p0rvhMSvS/giphy.gif" width="400"/>
-
-<img src="https://img.shields.io/badge/Microsoft%20Excel-100%25%20Used-success?logo=microsoft-excel&style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Pivot%20Tables-Advanced-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Charts-Dynamic-orange?style=for-the-badge"/>
-
-</div>
+## Key Insights  
+- Cash is the highest profit-generating payment method  
+- Healthcare is the top revenue-generating product line  
+- Africa has the highest number of transactions  
+- R&D and Sales departments generate the highest profits  
+- Expenses are evenly distributed across departments  
 
 ---
 
-## 📊 EXCEL DASHBOARD – ANIMATED GLIMPSE
-
-<div align="center">
-
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="800"/>
-
-<img src="dashboard.gif" width="900"/>
-
-</div>
-
-🎥 *Above animation represents interactive Excel charts, KPIs & layout flow*  
-📌 *(Replace `dashboard.gif` with your actual Excel dashboard GIF/image)*
+## Business Impact  
+- Enabled quick comparison of revenue, expenses, and profit  
+- Helped identify high-performing regions and categories  
+- Reduced manual reporting effort using Excel dashboards  
 
 ---
 
-## 💥 DASHBOARD BREAKDOWN (WITH MOTION FEEL)
-
-### 💳 Total Profit by Payment Method
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="450"/>
-</p>
-
-- 💵 **Cash = Highest Profit Generator**
-- 💳 Credit Card follows closely
-- 🌐 Digital payments show steady but lower margins
+## Conclusion  
+This project demonstrates how **Microsoft Excel can be used to build effective business dashboards** and generate meaningful insights without advanced BI tools.
 
 ---
-
-### 🏥 Revenue by Product Line
-<p align="center">
-  <img src="https://media.giphy.com/media/l0MYEw3R1m5mK0X6U/giphy.gif" width="450"/>
-</p>
-
-🥇 **Healthcare = Top Revenue Contributor**  
-⚙ Electronics & 👕 Clothing show strong demand  
-🪑 Furniture underperforms → optimization opportunity
-
----
-
-### 🌍 Transactions by Region
-<p align="center">
-  <img src="https://media.giphy.com/media/3o6ZtaO9BZHcOjmErm/giphy.gif" width="450"/>
-</p>
-
-- 🌍 **Africa leads in number of transactions**
-- 🇺🇸 North America & 🇪🇺 Europe = stable markets
-- 🌏 Asia-Pacific & 🌎 South America = growth potential
-
----
-
-### 📉 Revenue vs Expense vs Profit
-<p align="center">
-  <img src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif" width="500"/>
-</p>
-
-🚀 **R&D and Sales = Highest Profit Impact**  
-⚠ Operations & Marketing show moderate margins
-
----
-
-### 🧾 Expense Distribution
-<p align="center">
-  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="400"/>
-</p>
-
-✔ Expenses evenly distributed (~16–17%)  
-✔ Indicates strong financial control
-
----
-
-## 🚀 QUANTIFIED BUSINESS IMPACT (🔥 THIS IS GOLD 🔥)
-
-<div align="center">
-
-<img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="500"/>
-
-</div>
-
-✅ Identified **top-profit payment method**  
-✅ Flagged **highest revenue product line (Healthcare)**  
-✅ Highlighted **region with maximum demand (Africa)**  
-✅ Revealed **profit-draining departments**  
-✅ Reduced manual reporting effort by **~50% using Excel automation**
-
----
-
-## 🧠 KEY TAKEAWAYS (EXECUTIVE MODE)
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="500"/>
-</p>
-
-- Excel can deliver **BI-level dashboards**
-- Visual KPIs = faster decision-making
-- Data storytelling > raw numbers
-- **Excel skills = real business value**
-
----
-
-## 🏁 FINAL WORD
-
-<div align="center">
-
-<img src="https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif" width="600"/>
-
-### 🚀 *This project proves: Excel is not basic — bad Excel is.*  
-
-⭐ **Star this repo if you believe Excel still rules** ⭐
-
-</div>
