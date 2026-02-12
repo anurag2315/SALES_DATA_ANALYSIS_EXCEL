@@ -57,7 +57,7 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb25jZ3F4NmdxM2Z5MHB5NHJzNmN5bXZ6cHY1ZTB0b2k2Nm5ocmQ3aiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oKIPEqDGUULpEU0aQ/giphy.gif" width="700"/>
 </p>
 
-📌 *(Replace GIF with actual Power BI / Tableau / Excel dashboard screenshot when publishing)*
+
 
 ---
 
