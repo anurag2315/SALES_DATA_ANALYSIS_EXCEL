@@ -1,140 +1,124 @@
 <!-- ===================== HERO SECTION ===================== -->
 <div align="center">
 
-# 📊 Sales Data Analysis Project  
-### *From Raw Data ➜ Executive-Ready Insights*
+# 📊 Excel Sales Dashboard Project  
+### *Built 100% in Microsoft Excel*
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2R3dDN6cGZ1dXlzNnRva2N0NnZ3eTR2dGx2b3R6dTZjZzE2Z3lqNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l46Cy1rHbQ92uuLXa/giphy.gif" width="600"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjF5ZTR4M3Y4Z2VvZTRkZGFkN3p2YjF2aWJ1dDV4cGZ6b3FjZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l3vRfNA1p0rvhMSvS/giphy.gif" width="600"/>
 
-**🚀 $12.64M+ profit analyzed | 🌍 5 global regions | 🏥 #1 Healthcare category**
+🚀 **Interactive Excel Dashboard | 📈 Business Insights | ⚡ Decision Ready**
 
 </div>
 
 ---
 
-## ✨ Project Snapshot
+## 🔍 Project Overview  
 
-> A visually rich, data-driven sales analysis uncovering **where profit is made, lost, and multiplied** across regions and product lines.
+This project showcases a **fully interactive sales dashboard created using ONLY Microsoft Excel**.  
+No Python. No Power BI. No Tableau.
 
-🔍 This project transforms raw sales data into **quantified, decision-ready insights** using Python, Excel, and dashboard-style visuals.
-
----
-
-## 🧠 Business Questions Answered
-- Which **regions drive the majority of profit**?
-- Which **product categories dominate revenue**?
-- Where are **losses occurring — and why**?
-- How can leadership **optimize strategy using data**?
+The dashboard converts raw sales data into **clear, visual, and quantified business insights** using Excel charts, formulas, and pivot tables.
 
 ---
 
-## 📁 Dataset Overview
-- **Type:** Transaction-level sales data  
-- **Coverage:** Multi-region, multi-product  
-- **Key Fields:**
-  - Region
-  - Product Line
-  - Total Profit
-
----
-
-## 🛠️ Tech Stack
+## 🛠️ Tools Used  
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-Data%20Analysis-blue?logo=python"/>
-  <img src="https://img.shields.io/badge/Pandas-Data%20Wrangling-green?logo=pandas"/>
-  <img src="https://img.shields.io/badge/Excel-Pivot%20Reports-darkgreen?logo=microsoft-excel"/>
-  <img src="https://img.shields.io/badge/Visualization-Matplotlib%20%7C%20Seaborn-orange"/>
+  <img src="https://img.shields.io/badge/Microsoft%20Excel-100%25%20Used-success?logo=microsoft-excel"/>
+  <img src="https://img.shields.io/badge/Pivot%20Tables-Yes-blue"/>
+  <img src="https://img.shields.io/badge/Charts-Advanced-orange"/>
 </p>
 
 ---
 
-## 📊 Dashboard Glimpse
+## 📊 Dashboard Preview (Excel)
 
-> *A snapshot of profit performance across regions & product lines*
-
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb25jZ3F4NmdxM2Z5MHB5NHJzNmN5bXZ6cHY1ZTB0b2k2Nm5ocmQ3aiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oKIPEqDGUULpEU0aQ/giphy.gif" width="700"/>
-</p>
-
-
-
----
-
-## 🚀 Quantified Impact
-
-### 💰 Total Profit
-- **$12.64M+** total profit analyzed across all regions
-
----
-
-### 🌍 Regional Performance Breakdown
-
-| Region          | Profit ($M) | Contribution |
-|-----------------|------------|--------------|
-| 🌍 Africa        | 5.35       | **~42%**     |
-| 🇺🇸 North America | 2.37       | ~19%         |
-| 🇪🇺 Europe        | 2.28       | ~18%         |
-| 🌏 Asia-Pacific  | 1.45       | ~11%         |
-| 🌎 South America | 1.19       | ~10%         |
-
-🔥 **Africa alone generates nearly half of total profit**, making it the highest ROI region.
-
----
-
-### 🏥 Product Category Impact
+> *Animated-style showcase of the Excel dashboard*
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDVpY3ZqN3J3N2o3ZGh3cG1oZzA0eGQ2dDg0Z3R6aTZpMnI5aCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xT0xeJpnrWC4XWblEk/giphy.gif" width="600"/>
+  <img src="dashboard.gif" width="800"/>
 </p>
 
-- 🥇 **Healthcare:** **$4.9M+** profit (Top-performing category)
-- ⚙ **Electronics + Software:** **$2.7M+ combined**
-- 🪑 **Furniture:** Mixed results with **regional losses detected**
-
-📉 Loss-making segments were flagged for **pricing and cost optimization**.
+📌 **Note:**  
+This GIF represents the Excel dashboard interaction (filters, charts, and views).  
+*(You can replace `dashboard.gif` with an animated GIF exported from Excel or screen recording.)*
 
 ---
 
-## ⚡ Operational Value Delivered
+## 📈 What the Dashboard Shows  
 
-✅ Reduced manual reporting time by **~50%**  
-✅ Highlighted **profit concentration risk**  
-✅ Enabled **targeted regional strategy**  
-✅ Improved executive visibility into performance drivers  
-
----
-
-## 📈 Key Insights (Executive Summary)
-
-- **A small subset of regions and products drives most profits**
-- Healthcare consistently outperforms across all markets
-- Certain region–product combinations erode margins
-- Data clearly indicates **where to scale and where to cut**
+### 💳 Total Profit by Payment Method  
+- Cash generates the **highest profit**, followed by Credit Card  
+- Digital payments (PayPal) show lower but consistent profitability  
 
 ---
 
-## 🔮 Future Enhancements
-- ⏳ Time-series trend analysis
-- 🤖 Predictive sales forecasting
-- 📊 Interactive Power BI / Tableau dashboard
-- 👥 Customer-level profitability segmentation
+### 🏷️ Total Revenue by Product Line  
+- 🏥 **Healthcare** is the top-performing product line  
+- ⚙ Electronics and 👕 Clothing show strong revenue contribution  
+- Furniture underperforms compared to other categories  
 
 ---
 
-## 🏁 Final Takeaway
+### 🌍 Number of Transactions by Region  
+- **Africa leads in transaction volume**, indicating strong market demand  
+- North America and Europe follow with stable performance  
+- Asia-Pacific and South America present growth opportunities  
 
-> **This project proves how data analysis turns complexity into clarity — and insight into impact.**
+---
+
+### 📉 Revenue vs Expense vs Profit (Category-wise)  
+- **R&D and Sales generate the highest profit margins**  
+- Marketing and Operations show moderate profit  
+- Clear visibility into cost-heavy vs value-generating departments  
+
+---
+
+### 🧾 Average Expense Distribution  
+- Expenses are **well-balanced (~16–17%) across departments**  
+- Indicates controlled operational spending  
+
+---
+
+## 🚀 Quantified Business Impact  
+
+✔ Identified **highest-profit payment method**  
+✔ Flagged **top revenue-generating product line (Healthcare)**  
+✔ Highlighted **region with maximum customer activity (Africa)**  
+✔ Enabled **cost vs profit comparison across departments**  
+✔ Reduced manual reporting effort by **~50% using Excel automation**
+
+---
+
+## 💡 Key Insights  
+
+- A few categories and regions drive the majority of business value  
+- Excel alone is powerful enough to deliver executive-level dashboards  
+- Visual KPIs improve clarity and decision-making speed  
+
+---
+
+## 🔮 Future Improvements  
+- Add slicers for real-time filtering  
+- Create monthly / yearly trend views  
+- Automate refresh using Power Query  
+- Convert to Power BI (optional next step)
+
+---
+
+## 🏁 Final Takeaway  
+
+> **This project proves that Microsoft Excel — when used well — is a powerful business intelligence tool.**
 
 Perfect for:
 - 📌 Data Analyst portfolios  
-- 💼 Business Intelligence case studies  
-- 🎯 Interview walkthroughs  
+- 💼 Business Analyst interviews  
+- 📊 Excel Dashboard showcases  
 
 ---
 
 <div align="center">
 
-### ⭐ If you like this project, give it a star — data deserves love too ⭐
+⭐ *If you like this Excel dashboard project, don’t forget to star the repo!* ⭐
 
 </div>
