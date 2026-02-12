@@ -37,10 +37,10 @@ It analyzes sales, revenue, expenses, and profit across regions, product lines, 
 ## Dashboard Preview  
 
 <p align="center">
-  <img src="dashboard.png" width="850"/>
+  <img src="Dashboard.png" width="850"/>
 </p>
 
-*(Replace `dashboard.png` with your actual dashboard image or GIF)*
+
 
 ---
 
